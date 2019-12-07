@@ -32,5 +32,5 @@ This PC > OS (C:) > Program Files (x86) > Gyazo
 
 6) Click "File" at the top left and then "Save all"
 7) Drop the saved file into the Gyazo folder (replacing the one that's already there) 
-
+<br><br><br>
 If you need any additional help, locate the readme in this repository for contact information.
