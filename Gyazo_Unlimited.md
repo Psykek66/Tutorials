@@ -1,6 +1,9 @@
 # info 
 
+Max time:
 ![Max Time](https://i.vgy.me/eVz8s3.png)
+
+
 
 I did not discover this method, someone else had 1-2 years ago. I made this same tutorial a while ago on a small forum but decided to move it here since you need an account to access the forum. 
 
